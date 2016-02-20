@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Z21 Catalyzing Innovation]]></title>
         <description><![CDATA[Z21 Catalyzing Innovation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.z21.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 21:19:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 21:22:52 GMT</lastBuildDate>
+        <atom:link href="http://www.z21.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfe14aed-419c-4ca5-9b6d-9f7c5fda1ea1.jpg">]]></description>
-            <link>undefined95b97e0b-2dd3-4645-b369-b4db5898c818/index.html</link>
+            <link>http://www.z21.co/95b97e0b-2dd3-4645-b369-b4db5898c818/index.html</link>
             <guid isPermaLink="false">95b97e0b-2dd3-4645-b369-b4db5898c818</guid>
-            <pubDate>Sat, 20 Feb 2016 21:18:55 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 21:22:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

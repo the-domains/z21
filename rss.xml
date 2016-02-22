@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Z21 LLC, Catalyzing Innovation]]></title>
         <description><![CDATA[Z21 LLC, Catalyzing Innovation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.z21.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 01:11:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 01:12:09 GMT</lastBuildDate>
+        <atom:link href="http://www.z21.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zero to One Project: Mirror App]]></title>
+            <description><![CDATA[<article><h1>Zero to One Project: Mirror App</h1><p>Z21 worked with Mirror App Inc. to design and deliver a new lightweight, real-time peer-driven performance review. Z21 surfaced the centrality of effective behaviors and importance of context in driving effective performance.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c5c6180c8be36fba21aac6ce12823d8082e2174.jpg"></article>]]></description>
+            <link>http://www.z21.co/zero-to-one-project-mirror-app/index.html</link>
+            <guid isPermaLink="false">bf9ee6c6-753e-4830-bd7c-1aae91cb3b36</guid>
+            <pubDate>Mon, 22 Feb 2016 01:11:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact us]]></title>
             <description><![CDATA[<article><h1>Contact us</h1><p>Rishi Diwan</p></article>]]></description>
-            <link>undefinedcontact-us/index.html</link>
+            <link>http://www.z21.co/contact-us/index.html</link>
             <guid isPermaLink="false">8e094a12-8dc3-4213-ad5a-6ae10815b6f8</guid>
             <pubDate>Mon, 22 Feb 2016 01:11:36 GMT</pubDate>
         </item>

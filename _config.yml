@@ -35,7 +35,7 @@ color:
     - '#848894'
     - '#fabdc1'
   brandStrength: 1
-  lightness: 0
+  lightness: 0.5
   saturation: 0
   rhythmicContrast: 0
 purpose: []

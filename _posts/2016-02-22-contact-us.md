@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T05:06:48.879Z'
-dateModified: '2016-02-23T02:57:12.221Z'
+datePublished: '2016-02-23T05:11:49.125Z'
+dateModified: '2016-02-23T05:07:55.139Z'
 title: Get in touch
 author: []
 sourcePath: _posts/2016-02-22-contact-us.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: contact-us/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 Rishi Diwan

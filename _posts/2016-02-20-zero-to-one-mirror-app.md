@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Re-imagining the performance review with Mirror
-datePublished: '2016-02-23T00:01:02.585Z'
-dateModified: '2016-02-22T23:14:41.904Z'
-title: 'Zero to One Project: Mirror App'
+datePublished: '2016-02-23T03:32:01.137Z'
+dateModified: '2016-02-23T03:18:59.360Z'
+title: 'Z21 Project: Mirror App'
 author: []
 sourcePath: _posts/2016-02-20-zero-to-one-mirror-app.md
 published: true

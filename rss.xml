@@ -4,14 +4,21 @@
         <description><![CDATA[Z21, Catalyzing Innovation]]></description>
         <link>http://www.z21.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 20:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 23:19:59 GMT</lastBuildDate>
         <atom:link href="http://www.z21.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Z21 Services]]></title>
-            <description><![CDATA[<h1>Z21 Services</h1>]]></description>
+            <description><![CDATA[<article><h1>Z21 Services</h1><p>Z21 offers results oriented facilitation services that draw from Design Thinking, Improv and other methods in support of:  </p></article>]]></description>
             <link>http://www.z21.co/z21-services/index.html</link>
             <guid isPermaLink="false">486f073a-1cd5-486b-94df-3288b90f1573</guid>
-            <pubDate>Tue, 23 Feb 2016 20:07:06 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 23:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An entrepreneur, design thinking coach, and product executive, Rishi has led many "zero to one" projects.   ]]></title>
+            <description><![CDATA[<article><h1>An entrepreneur, design thinking coach, and product executive, Rishi has led many "zero to one" projects.   </h1><p>Accolades for his team’s work have included: an invitation to the White House, an app store feature by Apple, a cover page story in SF Business Times, People’s Choice Award at IxDA annual conference in 2014 and many more.</p></article>]]></description>
+            <link>http://www.z21.co/rishi-diwan-principal/index.html</link>
+            <guid isPermaLink="false">95b97e0b-2dd3-4645-b369-b4db5898c818</guid>
+            <pubDate>Tue, 23 Feb 2016 20:07:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Z21 Project: Mirror App]]></title>

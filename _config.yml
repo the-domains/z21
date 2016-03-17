@@ -1,19 +1,31 @@
+cta: {}
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+opengraph: {}
+color:
+  saturation: 1
+  brandStrength: 0.5343716
+  lightness: 1
+  brandColors:
+    - '#27390D'
+    - '#9AB44B'
+    - '#F3F94C'
+    - '#E8EAD0'
+    - '#92C6FD'
+  rhythmicContrast: 0.5193341
+typography_spectrum: 1
+layout_spectrum: 0.596217
 analytics:
   google: UA-74091752-1
-color:
-  brandColors:
-    - '#ffffff'
-    - '#f1404b'
-    - '#252c41'
-    - '#848894'
-    - '#fabdc1'
-  brandStrength: 0
-  lightness: 0.5
-  rhythmicContrast: 1
-  saturation: 1
-cta: {}
-layout_spectrum: 0.596217
 name: 'Z21, Catalyzing Innovation'
-opengraph: {}
-purpose: []
-typography_spectrum: 0.75743

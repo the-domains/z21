@@ -1,32 +1,5 @@
-name: 'Z21, Catalyzing Innovation'
-favicon: null
-layout_spectrum: 0.25046
-typography_spectrum: 0.75743
-title: 'Z21, Catalyzing Innovation'
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-74091752-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -36,6 +9,11 @@ color:
     - '#fabdc1'
   brandStrength: 0
   lightness: 0.5
-  saturation: 1
   rhythmicContrast: 1
+  saturation: 1
+cta: {}
+layout_spectrum: 0.596217
+name: 'Z21, Catalyzing Innovation'
+opengraph: {}
 purpose: []
+typography_spectrum: 0.75743

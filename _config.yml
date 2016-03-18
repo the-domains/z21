@@ -1,5 +1,7 @@
-cta: {}
-purpose: []
+name: 'Z21, Lean Product Management on Demand'
+favicon: null
+layout_spectrum: 0.596217
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -12,20 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-opengraph: {}
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-74091752-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.5343716
-  lightness: 1
   brandColors:
     - '#27390D'
     - '#9AB44B'
     - '#F3F94C'
     - '#E8EAD0'
     - '#92C6FD'
+  brandStrength: 0.5343716
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.5193341
-typography_spectrum: 1
-layout_spectrum: 0.596217
-analytics:
-  google: UA-74091752-1
-name: 'Z21, Catalyzing Innovation'
+purpose: []

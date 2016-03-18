@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "Z21 worked with Mirror App Inc. to design and deliver a new lightweight, real-time peer-driven performance review application. Z21 surfaced the centrality of effective behaviors and importance of context in delivering meaningful and sustained performance outcomes. \_"
-datePublished: '2016-03-16T20:21:01.692Z'
-dateModified: '2016-03-16T20:20:54.170Z'
+description: "Z21 worked with Mirror App Inc. to design and deliver a lightweight app for team performance. Z21 surfaced the centrality of effective behaviors and importance of context in delivering meaningful guidance for sustained team performance. \_"
+datePublished: '2016-03-18T02:21:06.417Z'
+dateModified: '2016-03-17T22:26:17.976Z'
 title: 'Z21 Project: Mirror App'
 author: []
 sourcePath: _posts/2016-02-20-zero-to-one-mirror-app.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: z21-project-mirror-app/index.html
 _type: Article
 

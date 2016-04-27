@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Z21, Lean Product Management on Demand]]></title>
-        <description><![CDATA[Z21, Lean Product Management on Demand]]></description>
+        <title><![CDATA[Z21, Product Execution as a Service]]></title>
+        <description><![CDATA[Z21, Product Execution as a Service]]></description>
         <link>http://www.z21.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 18:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 22:49:47 GMT</lastBuildDate>
         <atom:link href="http://www.z21.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<p>Z21 offers Product Execution as a service with coaching and implementation services that draw from Strategy Consulting, Design Thinking, Improv, and Agile in support of: </p>]]></description>
+            <link>http://www.z21.co/z21-services/index.html</link>
+            <guid isPermaLink="false">486f073a-1cd5-486b-94df-3288b90f1573</guid>
+            <pubDate>Wed, 27 Apr 2016 22:49:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Project: Mirror App]]></title>
-            <description><![CDATA[<article><h1>Project: Mirror App</h1><p>Z21 worked with Mirror App Inc. to design and deliver a lightweight app for team performance. Z21 surfaced the centrality of effective behaviors and importance of context in delivering meaningful guidance for sustained team performance.  </p></article>]]></description>
+            <description><![CDATA[<p>Z21 worked with Mirror App Inc. to design and deliver a lightweight app for team performance. Z21 surfaced the centrality of effective behaviors and importance of context in delivering meaningful guidance for sustained team performance.  </p>]]></description>
             <link>http://www.z21.co/z21-project-mirror-app/index.html</link>
             <guid isPermaLink="false">bf9ee6c6-753e-4830-bd7c-1aae91cb3b36</guid>
             <pubDate>Fri, 18 Mar 2016 18:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Services]]></title>
-            <description><![CDATA[<article><h1>Services</h1><p>Z21 offers Lean Product Management On Demand with services that draw from Strategy Consulting, Design Thinking, Improv, and Agile in support of:  </p></article>]]></description>
-            <link>http://www.z21.co/z21-services/index.html</link>
-            <guid isPermaLink="false">486f073a-1cd5-486b-94df-3288b90f1573</guid>
-            <pubDate>Fri, 18 Mar 2016 03:10:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An entrepreneur, design thinking coach, and product executive, Rishi has led many "zero to one" projects.   ]]></title>

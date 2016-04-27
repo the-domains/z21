@@ -1,9 +1,7 @@
+name: 'Z21, Lean Product Execution as a Service'
 favicon: null
-name: 'Z21, Lean Product Management on Demand'
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.2819549
+typography_spectrum: 0.49443
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 1
-  brandStrength: 1
-  rhythmicContrast: 1
-  brandColors:
-    - '#27390D'
-    - '#9AB44B'
-    - '#F3F94C'
-    - '#E8EAD0'
-    - '#92C6FD'
-  lightness: 0
-typography_spectrum: 0.49443
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.2819549
 analytics:
-  twitter: null
   google: UA-74091752-1
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#00bdff'
+    - '#030303'
+    - '#a09100'
+    - '#ff0080'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []

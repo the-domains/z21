@@ -1,40 +1,40 @@
-name: 'Z21, Lean Product Execution as a Service'
 favicon: null
-layout_spectrum: 0.50089
-typography_spectrum: 0.49443
+name: 'Z21, Lean Product Execution as a Service'
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74091752-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0.5451128
   brandColors:
     - '#ffffff'
     - '#00bdff'
     - '#030303'
     - '#a09100'
     - '#ff0080'
-  brandStrength: 1
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+  rhythmicContrast: 0
+typography_spectrum: 0.49443
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.50089
+analytics:
+  twitter: null
+  google: UA-74091752-1
+  facebook: null
